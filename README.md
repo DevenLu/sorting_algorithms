@@ -5,5 +5,5 @@ I wanted to study these algorithms more closely since I felt I needed more work 
 
 
 
-Algorithms Included: Insertion Sort, Merge Sort
+Algorithms Included: Insertion Sort, Merge Sort, Quick Sort.
 
