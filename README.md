@@ -66,3 +66,9 @@ In computer science, a stack is a particular kind of abstract data type or colle
 Credit: http://en.wikipedia.org/wiki/Linked_list
 
 In computer science, a linked list is a data structure consisting of a group of nodes which together represent a sequence. Under the simplest form, each node is composed of a data and a reference (in other words, a link) to the next node in the sequence; more complex variants add additional links. This structure allows for efficient insertion or removal of elements from any position in the sequence.
+
+**Queue**
+
+Credit: http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Queue_(data_structure).html
+
+A queue (pronounced /ˈkjuː/ kew) is a particular kind of collection in which the entities in the collection are kept in order and the principal (or only) operations on the collection are the addition of entities to the rear terminal position and removal of entities from the front terminal position. This makes the queue a First-In-First-Out (FIFO) data structure. In a FIFO data structure, the first element added to the queue will be the first one to be removed. This is equivalent to the requirement that once an element is added, all elements that were added before have to be removed before the new element can be invoked. A queue is an example of a linear data structure.
