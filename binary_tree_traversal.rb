@@ -17,8 +17,7 @@ class Node
 end
 
 class BinaryTree
-  attr_reader :root
-  attr_writer :root
+  attr_accessor :root
 
   def initialize()
     @root = Node.new
