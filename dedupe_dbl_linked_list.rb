@@ -98,7 +98,6 @@ class DLL
 end
 
 
-#Test code
 list = DLL.new
 numbers = (1..100).to_a
 
