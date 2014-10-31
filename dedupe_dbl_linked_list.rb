@@ -98,7 +98,6 @@ class DLL
 end
 
 
-#Test code
 list = DLL.new
 numbers = (1..100).to_a
 
@@ -114,4 +113,3 @@ puts'--------------------------------------------------------------------------'
 puts ''
 puts 'Double Linked List with duplicates removed:'
 puts list.rem_duplicates.to_s
-
