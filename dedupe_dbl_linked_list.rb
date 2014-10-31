@@ -113,4 +113,3 @@ puts'--------------------------------------------------------------------------'
 puts ''
 puts 'Double Linked List with duplicates removed:'
 puts list.rem_duplicates.to_s
-
